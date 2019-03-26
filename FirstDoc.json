@@ -1,0 +1,12 @@
+{
+     "category": "Geography",
+     "type": "multiple",
+     "difficulty": "medium",
+     "question": "The Principality of Sealand is an unrecognized micronation off the coast of what country?",
+     "correct_answer": "The United Kingdom",
+     "incorrect_answers": [
+       "Japan",
+       "Austrailia",
+       "Argentina"
+     ]
+}
