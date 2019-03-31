@@ -12,3 +12,9 @@ db.Questions.find({"difficulty" : "easy"})
 
 
 ******************************************
+19. MongoDB - Filtering results using $in
+*****************************************
+
+db.getCollection('Questions').find({"difficulty" : { $in : ["easy", "hard"]}})
+
+******************************************************************************
